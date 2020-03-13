@@ -1,0 +1,6 @@
+C:\Users\joshl\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\192.5728.100\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" "C:\Users\joshl\Documents\Robotics\VEX\2019 20 Tower Takeover\koad"
+CMake Error at CMakeLists.txt:244:
+  Parse error.  Function missing ending ")".  End of file reached.
+
+
+-- Configuring incomplete, errors occurred!
